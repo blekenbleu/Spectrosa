@@ -1,1 +1,1 @@
-python e:\my\Spectrogram\spectrosa.py "%1"
+python spectrosa.py "%1"
