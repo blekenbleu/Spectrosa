@@ -1,5 +1,5 @@
 # Spectrosa
-Variable frequency spectrogram using `librosa`
+Variable frequency range spectrogram using Python `librosa`
 
 Most spectrogram implementations plot from 0 Hz to half sampling rate.  
 Frequency range here is controlled by `fmin` and `fmax` values in `spectrosa.py`.  
